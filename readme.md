@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kratigya001" alt="kratigya001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kratigya 004" target="blank"><img src="https://img.shields.io/twitter/follow/kratigya 004?logo=twitter&style=for-the-badge" alt="kratigya 004" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kratigya004" target="blank"><img src="https://img.shields.io/twitter/follow/kratigya 004?logo=twitter&style=for-the-badge" alt="kratigya 004" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kratigya 004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kratigya 004" height="30" width="40" /></a>
+<a href="https://twitter.com/kratigya004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kratigya 004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kratigya-bansal-054512214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kratigya-bansal-054512214" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kratigyabansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kratigyabansal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kratigya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kratigya12" height="30" width="40" /></a>
