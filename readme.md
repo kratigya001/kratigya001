@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kratigya Bansal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MERN Stack Developer | Data Structures and Algorithm | Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratigya001&label=Profile%20views&color=0e75b6&style=flat" alt="kratigya001" /> </p>
 
